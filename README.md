@@ -1,2 +1,2 @@
-# Blockstack-PasswordGenie
-Blockstack-enabled Password Manager
+# Password Genie
+A Blockstack-enabled Password Manager
