@@ -2,6 +2,8 @@
 
 ### **A Blockstack-enabled Password Manager**
 
+![Blockstack Genie - By Elephant Ninja](images/passwordgenie_icon_tp.png)
+
 Password Genie is a simple, secure password manager.
 The App has the following features:
 
